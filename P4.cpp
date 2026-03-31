@@ -2,7 +2,6 @@
 #include <iomanip>
 using namespace std;
 
-// Procedure to input weight and height
 void inputData(float &weight, float &height) {
     cout << "--- Welcome Student Class A 2025 ---" << endl;
     cout << "Enter weight (kg): ";
