@@ -15,7 +15,7 @@ float calculateBMI(float weight, float height) {
     return weight / (height * height);
 }
 
-// Function to determine weight status
+
 string checkStatus(float bmi) {
     if (bmi < 18.5)
         return "Underweight";
