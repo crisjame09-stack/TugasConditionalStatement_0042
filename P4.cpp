@@ -10,7 +10,6 @@ void inputData(float &weight, float &height) {
     cin >> height;
 }
 
-
 float calculateBMI(float weight, float height) {
     return weight / (height * height);
 }
