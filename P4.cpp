@@ -43,14 +43,4 @@ int main() {
 
     return 0;
 }
-```
 
-The only things changed are the **display strings** and **function names** — the logic stays exactly the same. Output will look like:
-```
---- Welcome Student Class A 2025 ---
-Enter weight (kg): 70
-Enter height (meter): 1.7
-
---- Result ---
-Your BMI : 24.2215
-Status   : Normal Weight
